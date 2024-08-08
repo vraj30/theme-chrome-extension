@@ -7,7 +7,6 @@ The **Light-Dark Theme Switcher** is a Chrome extension that enables users to ef
 ## Features
 
 - **Toggle Button**: Quickly switch between light and dark themes with a single click.
-- **Persistent Settings**: Remembers your last selected theme and automatically applies it on future visits.
 - **Lightweight and Fast**: Minimal impact on browser performance.
 
 ## Installation
