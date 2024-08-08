@@ -25,4 +25,3 @@ The **Light-Dark Theme Switcher** is a Chrome extension that enables users to ef
 
 1. **Activate the Extension**: Click on the extension icon in the Chrome toolbar to open the popup.
 2. **Toggle the Theme**: Click the "Toggle Theme" button to switch between light and dark themes.
-3. **Automatic Application**: Your selected theme will be remembered and applied automatically on future page loads.
